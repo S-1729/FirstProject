@@ -11,5 +11,7 @@ public class App
 
         System.out.println("2 "+ app.sum(10, 20) );
         System.out.println("1 "+ app.sum(10, 20) );
+        
+        System.out.println("4 "+ app.sum(10, 20) );
     }
 }
